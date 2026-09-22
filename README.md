@@ -160,7 +160,6 @@ The main objective of this mini project is to demonstrate the application of mac
 
 Arpita Mondal 
 
-
 Department of Computer Science & Engineering  
 Daffodil International University
 ---
